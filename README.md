@@ -12,7 +12,7 @@ The project combines rolling risk estimation, constrained optimization, walk-for
 
 The portfolio contains 10 investable assets:
 
-**AAPL, NVDA, JPM, KO, XOM, MC.PA, AMZN, GC=F, TLT, JNJ**
+**AAPL (Apple), NVDA (NVIDIA), JPM (JP Morgan), KO (Coca-Cola), XOM (Exxon Mobil), MC.PA (LVMH / Louis Vuitton Moët Hennessy), AMZN (Amazon), GC=F (Gold Futures), TLT (Long-Term Treasury Bond ETF), JNJ (Johnson & Johnson)**
 
 The **S&P 500 (`^GSPC`)** is used as the benchmark, while **13-week Treasury Bills (`^IRX`)** provide the risk-free-rate proxy.
 
